@@ -17,10 +17,10 @@ import { FeedPage } from '../pages/feed/feed';
   declarations: [
     MyApp,
     AboutPage,
-    ContactPage,
+    ContactPage,s
     HomePage,
     TabsPage,
-
+    
   ],
   imports: [
     BrowserModule,
